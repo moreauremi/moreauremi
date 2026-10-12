@@ -10,6 +10,5 @@ Consultant ERP en alternance chez **1Life** (groupe Visiativ), où je me forme s
 
 **Ici**
 - [RémiOS](https://github.com/moreauremi/moreauremi.github.io) : mon portfolio BTS, en ligne sur [remim.me](https://remim.me)
-- [Crypto Dashboard Pro](https://github.com/moreauremi/crypto-dashboard-pro) : un petit projet Python / Streamlit
-
+  
 [remim.me](https://remim.me) · [LinkedIn](https://www.linkedin.com/in/remi-moreau-dubois)

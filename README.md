@@ -7,7 +7,7 @@
 
 #### `[ Stack ]`
 
-<img src="https://skillicons.dev/icons?i=ubuntu,windows,docker,git,github,html,css,js" height="36" alt="Ubuntu, Windows, Docker, Git, GitHub, HTML, CSS, JavaScript">
+<img src="assets/stack.svg" alt="Ubuntu, Windows, Docker, Git, GitHub, HTML, CSS, JavaScript">
 
 #### `[ Certifications ]`
 

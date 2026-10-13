@@ -7,7 +7,7 @@
 
 #### `[ Stack ]`
 
-<img src="assets/stack.svg" alt="Ubuntu, Windows, Proxmox, Docker, Tailscale, Git, GitHub, HTML, CSS, JavaScript">
+<img src="assets/icons.svg" alt="Ubuntu, Windows, Proxmox, Docker, Tailscale, Git, GitHub, HTML, CSS, JavaScript">
 
 #### `[ Certifications ]`
 

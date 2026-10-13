@@ -1,4 +1,4 @@
-<a href="https://remim.me"><img src="assets/remios.svg" width="100%" alt="Rémi Moreau : consultant ERP en alternance chez 1Life (groupe Visiativ), étudiant en BTS SIO option SISR à MyDigitalSchool Nantes (2026-2028). J'apprends l'ERP Open-Prod : achat-vente, gestion à l'affaire, production. Homelab : Proxmox, Docker, Jellyfin, NAS, Tailscale. Veille : sécurité des PME industrielles, virtualisation, facturation électronique. Cliquer pour ouvrir le portfolio remim.me."></a>
+<a href="https://remim.me"><img src="assets/header.svg" width="100%" alt="Rémi Moreau : consultant ERP en alternance chez 1Life (groupe Visiativ), étudiant en BTS SIO option SISR à MyDigitalSchool Nantes (2026-2028). J'apprends l'ERP Open-Prod : achat-vente, gestion à l'affaire, production. Homelab : Proxmox, Docker, Jellyfin, NAS, Tailscale. Veille : sécurité des PME industrielles, virtualisation, facturation électronique. Cliquer pour ouvrir le portfolio remim.me."></a>
 
 #### `[ Projets ]`
 

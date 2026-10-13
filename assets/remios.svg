@@ -1,78 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="492" viewBox="0 0 900 492" role="img" aria-labelledby="titre">
-  <title id="titre">Bienvenue sur RémiOS : Rémi Moreau</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="262" viewBox="0 0 900 262" role="img" aria-labelledby="titre">
+  <title id="titre">Rémi Moreau</title>
   <style>
     text { font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; fill: #101010; }
     .title { fill: #8a1c1c; font-weight: 600; }
     .logo { fill: #1e3c8c; }
     .key { fill: #1e3c8c; font-weight: 600; }
-    .num { fill: #8a1c1c; font-weight: 600; }
-    .sel-num { fill: #ffd76a; font-weight: 600; }
-    .sel { fill: #fff; }
+    .btn { fill: #fff; }
   </style>
 
-  <!-- fond -->
-  <rect width="900" height="492" fill="#1e3c8c"/>
-
   <!-- boîte : ombre, fond, relief -->
-  <rect x="40" y="40" width="830" height="426" fill="#000"/>
-  <rect x="28" y="28" width="830" height="426" fill="#cfcfcf"/>
-  <path d="M28 29 H858 M29 28 V454" stroke="#fff" stroke-width="2"/>
-  <path d="M28 453 H858 M857 28 V454" stroke="#5a5a5a" stroke-width="2"/>
+  <rect x="12" y="18" width="878" height="236" fill="#000"/>
+  <rect x="2" y="8" width="878" height="236" fill="#cfcfcf"/>
+  <path d="M2 9 H880 M3 8 V244" stroke="#fff" stroke-width="2"/>
+  <path d="M2 243 H880 M879 8 V244" stroke="#5a5a5a" stroke-width="2"/>
 
   <!-- titre -->
-  <rect x="331" y="20" width="224" height="17" fill="#cfcfcf"/>
-  <text x="443" y="33" text-anchor="middle" class="title">[ Bienvenue sur RémiOS ]</text>
+  <rect x="368" y="0" width="146" height="17" fill="#cfcfcf"/>
+  <text x="441" y="13" text-anchor="middle" class="title">[ Rémi Moreau ]</text>
 
   <!-- cadre intérieur -->
-  <rect x="56.5" y="52.5" width="773" height="329" fill="none" stroke="#6a6a6a"/>
+  <rect x="26.5" y="30.5" width="829" height="150" fill="none" stroke="#6a6a6a"/>
 
   <!-- logo -->
-  <text x="74" y="82" class="logo" xml:space="preserve"> ____  __  __</text>
-  <text x="74" y="97" class="logo" xml:space="preserve">|  _ \|  \/  |</text>
-  <text x="74" y="112" class="logo" xml:space="preserve">| |_) | |\/| |</text>
-  <text x="74" y="127" class="logo" xml:space="preserve">|  _ &lt;| |  | |</text>
-  <text x="74" y="142" class="logo" xml:space="preserve">|_| \_\_|  |_|</text>
+  <text x="48" y="82" class="logo" xml:space="preserve"> ____  __  __</text>
+  <text x="48" y="97" class="logo" xml:space="preserve">|  _ \|  \/  |</text>
+  <text x="48" y="112" class="logo" xml:space="preserve">| |_) | |\/| |</text>
+  <text x="48" y="127" class="logo" xml:space="preserve">|  _ &lt;| |  | |</text>
+  <text x="48" y="142" class="logo" xml:space="preserve">|_| \_\_|  |_|</text>
 
-  <!-- fiche -->
-  <text x="74" y="176" class="key">Utilisateur</text><text x="181" y="176">Rémi Moreau</text>
-  <text x="74" y="199" class="key">Formation</text><text x="181" y="199">BTS SIO option SISR</text>
-  <text x="74" y="222" class="key">École</text><text x="181" y="222">MyDigitalSchool Nantes</text>
-  <text x="74" y="245" class="key">Alternance</text><text x="181" y="245">1Life (part of Visiativ)</text>
-  <text x="74" y="268" class="key">Poste</text><text x="181" y="268">Consultant ERP Open-Prod</text>
-  <text x="74" y="291" class="key">Promo</text><text x="181" y="291">2026 - 2028</text>
-  <text x="74" y="314" class="key">Base</text><text x="181" y="314">Nantes</text>
-  <text x="74" y="337" class="key">Homelab</text><text x="181" y="337">Proxmox · Docker · Tailscale</text>
+  <!-- infos -->
+  <text x="214" y="64" class="key">Rôle</text>
+  <text x="300" y="64">Consultant ERP en alternance · 1Life (groupe Visiativ)</text>
 
-  <!-- menu -->
-  <text x="442" y="84">Choisis une rubrique :</text>
+  <text x="214" y="88" class="key">Études</text>
+  <text x="300" y="88">BTS SIO option SISR · MyDigitalSchool Nantes (2026-2028)</text>
 
-  <rect x="442.5" y="96.5" width="369" height="29" fill="#1e3c8c" stroke="#1e3c8c"/>
-  <text x="455" y="116" class="sel-num">1</text><text x="478" y="116" class="sel">Présentation</text>
+  <text x="214" y="112" class="key">Apprend</text>
+  <text x="300" y="112">Open-Prod : achat-vente, gestion à l'affaire, production</text>
 
-  <rect x="442.5" y="130.5" width="369" height="29" fill="none" stroke="#6a6a6a"/>
-  <text x="455" y="150" class="num">2</text><text x="478" y="150">Alternance et parcours</text>
+  <text x="214" y="136" class="key">Homelab</text>
+  <text x="300" y="136">Proxmox · Docker · Jellyfin · NAS · Tailscale</text>
 
-  <rect x="442.5" y="164.5" width="369" height="29" fill="none" stroke="#6a6a6a"/>
-  <text x="455" y="184" class="num">3</text><text x="478" y="184">Réalisations</text>
+  <text x="214" y="160" class="key">Veille</text>
+  <text x="300" y="160">Sécurité des PME · virtualisation · facturation électronique</text>
 
-  <rect x="442.5" y="198.5" width="369" height="29" fill="none" stroke="#6a6a6a"/>
-  <text x="455" y="218" class="num">4</text><text x="478" y="218">Compétences</text>
-
-  <rect x="442.5" y="232.5" width="369" height="29" fill="none" stroke="#6a6a6a"/>
-  <text x="455" y="252" class="num">5</text><text x="478" y="252">Tableau de synthèse E5</text>
-
-  <rect x="442.5" y="266.5" width="369" height="29" fill="none" stroke="#6a6a6a"/>
-  <text x="455" y="286" class="num">6</text><text x="478" y="286">Veille technologique</text>
-
-  <rect x="442.5" y="300.5" width="369" height="29" fill="none" stroke="#6a6a6a"/>
-  <text x="455" y="320" class="num">7</text><text x="478" y="320">Certifications</text>
-
-  <rect x="442.5" y="334.5" width="369" height="29" fill="none" stroke="#6a6a6a"/>
-  <text x="455" y="354" class="num">8</text><text x="478" y="354">CV et contact</text>
-
-  <!-- boutons -->
-  <rect x="307" y="402" width="114" height="32" fill="#1e3c8c"/>
-  <text x="364" y="423" text-anchor="middle" class="sel">&lt; Ouvrir &gt;</text>
-  <rect x="449.5" y="402.5" width="129" height="31" fill="none" stroke="#6a6a6a"/>
-  <text x="514" y="423" text-anchor="middle">&lt;Redémarrer&gt;</text>
+  <!-- bouton -->
+  <rect x="348" y="196" width="186" height="30" fill="#1e3c8c"/>
+  <text x="441" y="216" text-anchor="middle" class="btn">&lt; Ouvrir remim.me &gt;</text>
 </svg>
